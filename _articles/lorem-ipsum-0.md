@@ -1,7 +1,7 @@
 ---
 id: 0
-title: "Lorem ipsum 0"
-subtitle: "Sed sit amet arcu a diam tincidunt porta"
+title: "Prova prova 0"
+subtitle: "Proviamo a scrivere qualcosa"
 date: "2019.12.08"
 tags: "tag1, tag2"
 ---
